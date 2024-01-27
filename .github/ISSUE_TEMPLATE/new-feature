@@ -1,4 +1,4 @@
-name: Estória de usuário
+name: New feature
 description: Defina uma estória de usuário.
 title: "Como um <tipo de usuário>, desejo <objetivo> para <benefício>."
 labels: ["user Story"]
